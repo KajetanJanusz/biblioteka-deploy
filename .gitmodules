@@ -1,0 +1,9 @@
+[submodule "biblioteka_drf"]
+	path = biblioteka_drf
+	url = git@github.com:KajetanJanusz/biblioteka_drf.git
+[submodule "biblioteka_drf_react_native"]
+	path = biblioteka_drf_react_native
+	url = git@github.com:KajetanJanusz/biblioteka_drf_react_native.git
+[submodule "biblioteka_drf_vue"]
+	path = biblioteka_drf_vue
+	url = git@github.com:KajetanJanusz/biblioteka_drf_vue.git
